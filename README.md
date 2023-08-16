@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <p>
-  Welcome to my GitHub! I'm Mihir Prahlad, a recent graduate from the University of Virginia with a Bachelor's Degree in computer science and economics. I am a quick learner, curious, always willing to take initiative, and work well in teams. I am pursuing a career in software development, and to this extent have worked in several internships and training programs to prepare myself for this. Through these, I have gained experience with working with several languages such as JavaScript, Python, Java, and others, with technologies such as React, Django, and Twig, and with working both in scrum teams following an agile structure and working individually. If my profile interests you, feel free to reach out to me through my email <a href="mailto: mihirprahlad@gmail.com">mihirprahlad@gmail.com</a>.
+  Welcome to my GitHub! I'm Mihir Prahlad, a recent graduate from the University of Virginia with a Bachelor's Degree in computer science and economics. 
+  
+  I am a quick learner, curious, always willing to take initiative, and I work well in teams. 
+  
+  I am pursuing a career in software development, and to this extent have worked in several internships and training programs. Through these, I have gained experience with working with several languages such as JavaScript, Python, Java, and others, with technologies such as React, Django, and Twig, and with working both in scrum teams following an agile structure and working individually. If my profile interests you, feel free to reach out to me through my email <a href="mailto: mihirprahlad@gmail.com">mihirprahlad@gmail.com</a>.
 </p>
 <!--
 **mihirprahlad/mihirprahlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
